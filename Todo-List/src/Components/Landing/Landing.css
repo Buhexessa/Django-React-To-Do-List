@@ -1,0 +1,34 @@
+.landing {
+    height: auto;
+    padding-bottom: 4vh;
+}
+
+.landing .row {
+    padding-top: 4vh;
+    height: auto;
+}
+
+.sign h2 {
+    padding-left: 1rem;
+}
+
+.sign p {
+    padding-left: 1rem;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 768px) {
+    .landing .row {
+        padding-top: 5vh;
+    }
+
+    .image img {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+
+    .sign {
+        margin-top: 10vh !important;
+    }
+}

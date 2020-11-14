@@ -1,0 +1,32 @@
+input[type=checkbox] {
+    cursor: pointer;
+    background-color: rgba(var(--pure-material-onsurface-rgb, 0, 0, 0), 0.6);
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+}
+
+input[type=checkbox]:checked {
+    background: #337ab7;
+    border: none;
+}
+
+.form-check-input {
+    margin-top: 0.2rem !important;
+}
+
+svg {
+    position: relative !important;
+    cursor: pointer;
+}
+
+.strikeThrough {
+    text-decoration: line-through;
+}
+
+td .btn {
+    cursor: default !important;
+}
+
+@media screen and (max-width: 768px) {
+}

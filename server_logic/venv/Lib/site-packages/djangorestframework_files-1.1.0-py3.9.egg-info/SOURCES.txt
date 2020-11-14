@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+djangorestframework_files.egg-info/PKG-INFO
+djangorestframework_files.egg-info/SOURCES.txt
+djangorestframework_files.egg-info/dependency_links.txt
+djangorestframework_files.egg-info/top_level.txt
+rest_framework_files/__init__.py
+rest_framework_files/generics.py
+rest_framework_files/mixins.py
+rest_framework_files/routers.py
+rest_framework_files/viewsets.py

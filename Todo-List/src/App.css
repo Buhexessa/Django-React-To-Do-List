@@ -1,0 +1,18 @@
+html,body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #007bff;
+  height: auto;
+  width: auto;
+  -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.app {
+  margin-bottom: -3.5vh;
+}

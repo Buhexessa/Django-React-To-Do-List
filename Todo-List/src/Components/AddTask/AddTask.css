@@ -1,0 +1,45 @@
+.modal-content {
+    border-radius: 1rem !important;
+}
+
+#add-btn {
+    padding-left: 2.8rem !important;
+    padding-right: 2.8rem !important;
+}
+
+#reset-btn {
+    padding-left: 2.2rem !important;
+    padding-right: 2.2rem !important;
+}
+
+.modal-content {
+    border-radius: 2rem !important;
+}
+
+.modal-header {
+    border-top-left-radius: 1rem !important;
+    border-top-right-radius: 1rem !important;
+}
+
+.modal-body {
+    border-bottom-left-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+}
+
+.close {
+    color: #555555 !important;
+}
+
+@media screen and (max-width: 768px) {
+    #add-btn {
+        padding-left: auto !important;
+        padding-right: auto !important;
+        width: 100% !important;
+    }
+    
+    #reset-btn {
+        padding-left: auto !important;
+        padding-right: auto !important;
+        width: 100% !important;
+    }
+}
